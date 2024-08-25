@@ -1,5 +1,5 @@
-1
-2
+Task 4 (Update and commit any two lines in secondFile.txt)
+Task 4 (Update and commit any two lines in secondFile.txt)
 3
 4
 5
