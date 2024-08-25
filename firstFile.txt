@@ -5,6 +5,6 @@
 (Task 18 folder 2: git 1: change two lines in firstFile.txt commit and push)
 (Task 18 folder 2: git 1: change two lines in firstFile.txt commit and push)
 7
-8
+(TASK 20 folder1 git_1 change another line in firstFile not the same as in 19,18)
 9
 10
