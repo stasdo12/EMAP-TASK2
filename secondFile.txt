@@ -1,5 +1,7 @@
 TASK5 Update and commit the same 2 lines with the differebt into in secondFile.txt
 TASK5 Update and commit the same 2 lines with the different into in secondFile.txt
+Task 4 (Update and commit any two lines in secondFile.txt)
+Task 4 (Update and commit any two lines in secondFile.txt)
 3
 4
 5
